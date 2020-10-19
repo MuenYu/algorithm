@@ -15,7 +15,7 @@ func main() {
 	//nums := []int{-2,1,-3,4,-1,2,1,-5,4}
 	start := time.Now()
 	fmt.Println(maxSubArrayWithTips(nums))
-	fmt.Println("time cost:", time.Since(start)) //18s 超时严重
+	fmt.Println("time cost:", time.Since(start))
 }
 
 func maxSubArrayWithTips(nums []int) int {
