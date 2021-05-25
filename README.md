@@ -1,4 +1,4 @@
-我的 LeetCode 刷题记录, 使用 Golang
+我的 LeetCode 刷题记录, 使用 Python
 
 刷题记录：
 
