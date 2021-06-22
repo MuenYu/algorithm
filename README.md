@@ -16,9 +16,9 @@
 - [ ] [最大子序和](./maximum_subarray.py)  
 - [x] [最后一个单词的长度](./length_of_last_word.py)
 - [x] [加一](./plus_one.py)
-- [ ] 二进制求和  
-- [ ] x 的平方根  
-- [ ] 爬楼梯  
+- [x] [二进制求和](./add_binary.py)
+- [x] [x 的平方根](./sqrtx.py)  
+- [x] [爬楼梯](./climbing_stairs.py)
 - [ ] 删除排序链表中的重复元素  
 - [ ] 合并两个有序数组  
 - [ ] 二叉树的中序遍历  
