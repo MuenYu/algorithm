@@ -19,6 +19,6 @@
 - [x] [二进制求和](./add_binary.py)
 - [x] [x 的平方根](./sqrtx.py)  
 - [x] [爬楼梯](./climbing_stairs.py)
-- [ ] 删除排序链表中的重复元素  
-- [ ] 合并两个有序数组  
-- [ ] 二叉树的中序遍历  
+- [x] [删除排序链表中的重复元素](./remove_duplicates_from-sorted_list.py)
+- [ ] [合并两个有序数组](./merge_sorted_array.py)
+- [ ] [二叉树的中序遍历](./binary_tree_inorder_traversal.py)
