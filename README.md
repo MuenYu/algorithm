@@ -23,3 +23,6 @@
 - [x] [删除排序链表中的重复元素](./remove_duplicates_from-sorted_list.py)
 - [ ] [合并两个有序数组](./merge_sorted_array.py)
 - [ ] [二叉树的中序遍历](./binary_tree_inorder_traversal.py)
+- [x] [相同的树](./same_tree.py)
+- [x] [对称二叉树](./symmetric_tree.py)
+- [x] [二叉树的最大深度](maximum_depth_of_binary_tree.py)
