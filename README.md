@@ -1,9 +1,10 @@
 我的 LeetCode 刷题记录, 使用 Python
 
+如果出现 MySolution 代表错误解、超时解
 
 **打 ✔ 代表自己解出**
 
-- [x] [两数之和](./two-sum.py)
+- [x] [两数之和](./two_sum.py)
 - [x] [整数反转](./reverse_integer.py)  
 - [x] [回文数](./palindrome_number.py)  
 - [x] [罗马数字转整数](./roman_to_integer.py)  
@@ -25,4 +26,7 @@
 - [ ] [二叉树的中序遍历](./binary_tree_inorder_traversal.py)
 - [x] [相同的树](./same_tree.py)
 - [x] [对称二叉树](./symmetric_tree.py)
-- [x] [二叉树的最大深度](maximum_depth_of_binary_tree.py)
+- [x] [二叉树的最大深度](./maximum_depth_of_binary_tree.py)
+- [ ] [将有序数组转换为二叉搜索树](./convert_sorted_array_to_binary_search_tree.py)
+- [ ] [平衡二叉树](./balanced_binary_tree.py)
+- [x] [二叉树的最小深度](./minimum_depth_of_binary_tree.py)
