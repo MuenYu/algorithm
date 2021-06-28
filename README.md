@@ -30,3 +30,5 @@
 - [ ] [将有序数组转换为二叉搜索树](./convert_sorted_array_to_binary_search_tree.py)
 - [ ] [平衡二叉树](./balanced_binary_tree.py)
 - [x] [二叉树的最小深度](./minimum_depth_of_binary_tree.py)
+- [x] [路径总和](./path-sum.py)
+- [x] [杨辉三角](./pascals-triangle.py)
