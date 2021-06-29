@@ -32,3 +32,5 @@
 - [x] [二叉树的最小深度](./minimum_depth_of_binary_tree.py)
 - [x] [路径总和](./path-sum.py)
 - [x] [杨辉三角](./pascals-triangle.py)
+- [x] [杨辉三角 II](./pascals-triangle-ii.py)
+- [x] [买卖股票的最佳时机](./best-time-to-buy-and-sell-stock.py)
