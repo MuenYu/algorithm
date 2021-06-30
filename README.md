@@ -34,3 +34,5 @@
 - [x] [杨辉三角](./pascals-triangle.py)
 - [x] [杨辉三角 II](./pascals-triangle-ii.py)
 - [x] [买卖股票的最佳时机](./best-time-to-buy-and-sell-stock.py)
+- [ ] [买卖股票的最佳时机 II](./best-time-to-buy-and-sell-stock-ii.py)
+- [x] [验证回文串](./valid-palindrome.py)
