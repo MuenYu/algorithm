@@ -36,3 +36,5 @@
 - [x] [买卖股票的最佳时机](./best-time-to-buy-and-sell-stock.py)
 - [ ] [买卖股票的最佳时机 II](./best-time-to-buy-and-sell-stock-ii.py)
 - [x] [验证回文串](./valid-palindrome.py)
+- [x] [只出现一次的数字](./single-number.py)
+- [ ] [环形链表](./linked-list-cycle.py)
