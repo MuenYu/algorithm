@@ -38,3 +38,5 @@
 - [x] [验证回文串](./valid-palindrome.py)
 - [x] [只出现一次的数字](./single-number.py)
 - [ ] [环形链表](./linked-list-cycle.py)
+- [x] [二叉树的前序遍历](./binary-tree-preorder-traversal.py)
+- [x] [二叉树的后序遍历](./binary-tree-postorder-traversal.py)
