@@ -40,3 +40,5 @@
 - [ ] [环形链表](./linked-list-cycle.py)
 - [x] [二叉树的前序遍历](./binary-tree-preorder-traversal.py)
 - [x] [二叉树的后序遍历](./binary-tree-postorder-traversal.py)
+- [x] [最小栈](./min-stack.py)
+- [ ] [相交链表](./intersection-of-two-linked-lists.py)
