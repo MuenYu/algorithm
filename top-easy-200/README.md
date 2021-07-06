@@ -42,3 +42,5 @@
 - [x] [二叉树的后序遍历](./binary-tree-postorder-traversal.py)
 - [x] [最小栈](./min-stack.py)
 - [ ] [相交链表](./intersection-of-two-linked-lists.py)
+- [x] [两数之和 II - 输入有序数组](./two-sum-ii-input-array-is-sorted.py)
+- [ ] [Excel表列名称](./excel-sheet-column-title.py)
