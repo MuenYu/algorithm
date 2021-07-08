@@ -45,3 +45,4 @@
 - [x] [两数之和 II - 输入有序数组](./two-sum-ii-input-array-is-sorted.py)
 - [ ] [Excel表列名称](./excel-sheet-column-title.py)
 - [x] [多数元素](./majority-element.py)
+- [x] [excel表列序号](./excel-sheet-column-number.py)
