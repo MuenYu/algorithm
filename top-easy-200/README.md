@@ -46,3 +46,4 @@
 - [ ] [Excel表列名称](./excel-sheet-column-title.py)
 - [x] [多数元素](./majority-element.py)
 - [x] [excel表列序号](./excel-sheet-column-number.py)
+- [ ] [阶乘后的零](./factorial-trailing-zeroes.py)
