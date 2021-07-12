@@ -47,3 +47,5 @@
 - [x] [多数元素](./majority-element.py)
 - [x] [excel表列序号](./excel-sheet-column-number.py)
 - [ ] [阶乘后的零](./factorial-trailing-zeroes.py)
+- [ ] [颠倒二进制位](./reverse-bits.py)
+- [x] [位1的个数](./number-of-1-bits.py)
