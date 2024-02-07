@@ -1,7 +1,5 @@
-我的 LeetCode 刷题记录, 使用 Golang
+# algorithm learning notes
+Following `hello-algo` and `leetcode`
 
-刷题记录：
-
-- 数组
-
-参考：[小浩算法](https://www.geekxh.com/)
+# TODO
+1. the minimum path

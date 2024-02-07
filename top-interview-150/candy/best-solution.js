@@ -1,0 +1,26 @@
+// https://leetcode.com/problems/candy
+
+/**
+ * @param {number[]} ratings
+ * @return {number}
+ */
+var candy = function(ratings) {
+    if (ratings.length ===0 ) return 0;
+    const candies = new Array(ratings.length).fill(1);
+    for (let i = 1;i<ratings.length;++i) {
+        if (ratings[i]>ratings[i-1]) {
+            candies[i] = candies[i-1]+1;
+        }
+    }
+    let result= candies[ratings.length-1];
+    for (let i = ratings.length-2;i>-1;--i) {
+        if (ratings[i]>ratings[i+1]){
+            candies[i] = Math.max(candies[i],candies[i+1]+1);
+        }
+        result += candies[i];
+    }
+    return result;
+};
+
+const arr = [1,2,2];
+console.log(candy(arr));
